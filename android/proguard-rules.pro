@@ -1,1 +1,1 @@
--keep class io.adjump.model** { *; }
+-keep class io.adjump** { *; }
