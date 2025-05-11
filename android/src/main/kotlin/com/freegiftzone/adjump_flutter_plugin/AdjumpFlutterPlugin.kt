@@ -4,7 +4,8 @@ import android.content.Context
 import io.flutter.embedding.engine.plugins.FlutterPlugin
 import io.flutter.plugin.common.MethodCall
 import io.flutter.plugin.common.MethodChannel
-import io.leadmint.adjump.offerwall.AdJump
+import io.leadmint.adjump.AdJump
+
 /**
  * Plugin implementation that bridges Dart ↔️ native AdJump SDK via MethodChannel.
  */
