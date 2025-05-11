@@ -1,4 +1,4 @@
-package com.example.adjump_flutter_plugin
+package com.freegiftzone.adjump_flutter_plugin
 
 import io.flutter.plugin.common.MethodCall
 import io.flutter.plugin.common.MethodChannel
