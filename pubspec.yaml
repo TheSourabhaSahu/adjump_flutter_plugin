@@ -1,6 +1,6 @@
 name: adjump_flutter_plugin
 description: A lightweight, secure Flutter plugin for the AdJump Offerwall SDK on Android.
-version: 0.0.1
+version: 1.0.0
 homepage:
 
 environment:
