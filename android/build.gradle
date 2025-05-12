@@ -60,7 +60,7 @@ android {
 
 // ↓ Move this OUTSIDE the android { } block
 dependencies {
-    implementation 'io.leadmint.adjump:offerwall:1.0.1'
+    implementation 'io.leadmint.adjump:offerwall:0.0.1'
     testImplementation "org.jetbrains.kotlin:kotlin-test"
     testImplementation "org.mockito:mockito-core:5.0.0"
 }
